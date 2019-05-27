@@ -24,12 +24,12 @@ clear
 
 figlet Full Tools | lolcat
 
-echo "============================================="
+echo $b"============================================="
 echo   "Team    : 606_HackTeam $white" |lolcat
 echo   "Creadby  : BLANK $white" |lolcat
 echo   "Contact  : 08121******* $white" |lolcat
 echo   "YouTube : Hack 606 $white" |lolcat
-echo "============================================="
+echo $b"============================================="
 
 ###################################################
 # CTRL + C
