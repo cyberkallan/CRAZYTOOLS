@@ -15,8 +15,14 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
+echo "Loading..." | lolcat
+sleep 2
+clear
+toilet -f future "welcome" | lolcat
+sleep 2
+clear
 
-figlet Assyyiiaap | lolcat
+figlet Full Tools | lolcat
 
 echo "============================================="
 echo   "Team    : 606_HackTeam $white" |lolcat
@@ -43,7 +49,7 @@ exit
 }
 
 lagi=1
-while [ $lagi -lt 6 ];
+while [ $lagi -lt 30 ];
 do
 echo ""
 echo   "1. Deface";
