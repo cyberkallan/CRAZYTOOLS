@@ -442,11 +442,11 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALALN" | lolcat
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry, the  option you looking is not found"
 esac
 done
 done
@@ -454,7 +454,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -782,11 +782,11 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALLAN" | lolcat
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry, The option you looking not foun"
 esac
 done
 done
@@ -794,7 +794,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1122,11 +1122,11 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALLAN" | lolcat
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry, the option you looking for not exist"
 esac
 done
 done
@@ -1134,7 +1134,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1462,11 +1462,11 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALLAN" | lolcat
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry, the option you looking for is not found"
 esac
 done
 done
@@ -1474,7 +1474,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1802,11 +1802,11 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALLAN" | lolcat
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry, The option you are looking is not found"
 esac
 done
 done
@@ -1814,7 +1814,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
