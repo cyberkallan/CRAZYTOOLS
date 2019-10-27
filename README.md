@@ -1,4 +1,7 @@
-# crazytools
+# crazytools 
+## cyber kallan 
+# requirements
+
  $apt update (enter)
  $apt upgrade -y (enter)
  $pkg install ruby -y (enter)
@@ -14,9 +17,8 @@
 
 
     +|+ HOW TO RUN THE TOOLS +|+
-oke guys untuk menjalankan toolsnya kalian ketikkan package ini.
+ok guys to run the tools you guys type this package.
 
- $sh crazytools.sh
-Oke sekarang Tinggal kalian pilih menu yang kalian suka bosskuhh
+ $ sh crazytools.sh Okay now you just choose the menu you like bosskuhh
 
-wassalamualaikum wr wb.
+ enjoy machane🤩
