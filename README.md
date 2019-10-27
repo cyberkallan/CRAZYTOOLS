@@ -13,7 +13,7 @@
  $pip2 install requets (enter)
 
 
-    +|+ CARA MENJALANKAN TOOLS +|+
+    +|+ HOW TO RUN THE TOOLS +|+
 oke guys untuk menjalankan toolsnya kalian ketikkan package ini.
 
  $sh crazytools.sh
