@@ -114,7 +114,7 @@ echo   "30. Amer";
 echo $b"============================" | lolcat
 echo   "00. Exit";
 echo ""
-echo  "╭─BLANK" |lolcat
+echo  "╭─KCST" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -2100,7 +2100,7 @@ sh virtex.sh
 #TOOL D-TECT
 
 27) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " KCST " -F gay
 git clone https://github.com/shawarkhanethicalhacker/D-TECT
 cd D-TECT
 apt install python2
@@ -2112,7 +2112,7 @@ python2 d-tect.py
 #Instagram Brute Force
 
 28) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " CYBER KALLAN " -F gay
 git clone https://github.com/linuxkukeren/instagram
 pip install requests
 pip install -r requirement.txt
@@ -2124,7 +2124,7 @@ python2 linuxkukerenhacking.py
 #Light_Bringer
 
 29) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " CYBER KALLAN " -F gay
 git clone https://github.com/zlucifer/light_bringer
 cd light_bringer
 sh light.sh
@@ -2146,7 +2146,7 @@ sh Amer.sh
 exit
 ;;
 
-*) echo "sorry, pilihan yang anda cari tidak ada"
+*) echo "sorry,The option you are looking for does not exist"
 esac
 done
 done
