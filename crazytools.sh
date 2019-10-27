@@ -18,17 +18,17 @@ red='\e[1;31m'
 echo "Loading..." | lolcat
 sleep 2
 clear
-toilet -f future "welcome" | lolcat
+toilet -f future "CYBER KALLAN" | lolcat
 sleep 2
 clear
 
-figlet Full Tools | lolcat
+figlet MALLU HACKERS | lolcat
 
 echo $b"============================================="
-echo   "Team    : 606_HackTeam $white" |lolcat
-echo   "Creadby  : BLANK $white" |lolcat
-echo   "Contact  : 08121******* $white" |lolcat
-echo   "YouTube : Hack 606 $white" |lolcat
+echo   "Team    : KCST Kerala cyber security team $white" |lolcat
+echo   "Creadby  : CYBER KALALN (Arjun arz) $white" |lolcat
+echo   "Contact  : Instagram.com/arz_beats $white" |lolcat
+echo   "YouTube : CYBER KALLAN $white" |lolcat
 echo $b"============================================="
 
 ###################################################
@@ -38,12 +38,12 @@ trap ctrl_c INT
 ctrl_c() {
 clear
 echo -b $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
-echo -b $cyan"[#]> TIDAK UNTUK KEJAHATAN"
+echo -b $cyan"[#]> NOT FOR ILLEGEL USE"
 sleep 1
 echo ""
-echo -b $g"[#]> BLANK"
+echo -b $g"[#]> KCST"
 
-echo -b $white"[#]> see you gaes :)..."
+echo -b $white"[#]> see you machane :)..."
 sleep 1
 exit
 }
@@ -2134,7 +2134,7 @@ sh light.sh
 #Amer
 
 30) clear
-toilet -f standard " BLANK " -F gay
+toilet -f standard " KCST " -F gay
 git clone https://github.com/Amerlaceset/Amer
 cd Amer
 sh Amer.sh
@@ -2142,7 +2142,7 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : BLANK_TEAM" | lolcat
+00) echo "created by : CYBER KALLAN" | lolcat
 exit
 ;;
 
