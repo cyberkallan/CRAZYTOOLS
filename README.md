@@ -1,5 +1,14 @@
 # crazytools 
 ## cyber kallan 
+
+## for more SUBSCRIBE my YouTube channel
+### https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
+
+#### Instagram :- arz_beats
+
+
+![ur](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
+
 # requirements
 
  $apt update (enter)
