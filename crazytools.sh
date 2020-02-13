@@ -25,7 +25,7 @@ clear
 figlet MALLU HACKERS | lolcat
 
 echo $b"============================================="
-echo   "Team    : KCST Kerala cyber security team $white" |lolcat
+echo   "Team    : 'KCG' Kerala cyber Guardians team $white" |lolcat
 echo   "Creadby  : CYBER KALALN (Arjun arz) $white" |lolcat
 echo   "Contact  : Instagram.com/arz_beats $white" |lolcat
 echo   "YouTube : CYBER KALLAN $white" |lolcat
@@ -41,7 +41,7 @@ echo -b $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
 echo -b $cyan"[#]> NOT FOR ILLEGEL USE"
 sleep 1
 echo ""
-echo -b $g"[#]> KCST"
+echo -b $g"[#]> KCG"
 
 echo -b $white"[#]> see you machane :)..."
 sleep 1
@@ -114,7 +114,7 @@ echo   "30. Amer";
 echo $b"============================" | lolcat
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -454,7 +454,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -794,7 +794,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1134,7 +1134,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1474,7 +1474,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
@@ -1814,7 +1814,7 @@ done
 =================="
 echo   "00. Exit";
 echo ""
-echo  "╭─KCST" |lolcat
+echo  "╭─KCG" |lolcat
 read -p "╰─#" pil;
 
 #Deface
