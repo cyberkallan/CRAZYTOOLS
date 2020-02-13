@@ -25,7 +25,7 @@ clear
 figlet MALLU HACKERS | lolcat
 
 echo $b"============================================="
-echo   "Team    : 'KCG' Kerala cyber Guardians team $white" |lolcat
+echo   "Team    : 'KCG' Kerala cyber Guardians  $white" |lolcat
 echo   "Creadby  : CYBER KALALN (Arjun arz) $white" |lolcat
 echo   "Contact  : Instagram.com/arz_beats $white" |lolcat
 echo   "YouTube : CYBER KALLAN $white" |lolcat
